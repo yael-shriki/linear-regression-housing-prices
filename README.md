@@ -1,7 +1,7 @@
 # House Price Prediction using Linear Regression
-## This project aims to predict house prices using linear regression. We will use a dataset containing housing prices in King County, USA. The dataset consists of 5,000 observations with 18 features and a single target value - the house price.
+## Feel free to explore the Jupyter notebook to view the data visualizations for the linear regression. I've saved the notebook with the graphs after running the code!
 
-
+This project aims to predict house prices using linear regression. We will use a dataset containing housing prices in King County, USA. The dataset consists of 5,000 observations with 18 features and a single target value - the house price.
 In this project, we will perform the following steps:
 
 * Load and preprocess the dataset.
@@ -12,12 +12,13 @@ In this project, we will perform the following steps:
 
 
 Before running the code, ensure you have the necessary dependencies installed. The following libraries are required:
-numpy
-pandas
+* numpy
+* pandas
+
 You can install them using pip:
 pip install numpy pandas
 
-Feel free to explore the Jupyter notebook to view the data visualizations for the linear regression. I've saved the notebook with the graphs after running the code!
+
 
 
 
