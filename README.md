@@ -4,11 +4,11 @@
 
 In this project, we will perform the following steps:
 
-Load and preprocess the dataset.
-Implement linear regression from scratch.
-Train the model using gradient descent and efficient gradient descent algorithms.
-Evaluate the model's performance using various metrics.
-Perform feature selection and polynomial feature expansion to improve model accuracy.
+* Load and preprocess the dataset.
+* Implement linear regression from scratch.
+* Train the model using gradient descent and efficient gradient descent algorithms.
+* Evaluate the model's performance using various metrics.
+* Perform feature selection and polynomial feature expansion to improve model accuracy.
 
 
 Before running the code, ensure you have the necessary dependencies installed. The following libraries are required:
